@@ -1,0 +1,28 @@
+{
+  "name": "overmind-terminal",
+  "version": "1.0.0",
+  "description": "Futuristic open-source AI agent command terminal and dashboard UI kit. Vanilla HTML/CSS/JS, no build step.",
+  "license": "MIT",
+  "author": "Mr Deedz / Deedz Dev",
+  "homepage": "https://github.com/iDeedz/Overmind-Terminal#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iDeedz/Overmind-Terminal.git"
+  },
+  "bugs": {
+    "url": "https://github.com/iDeedz/Overmind-Terminal/issues"
+  },
+  "keywords": [
+    "ui-kit",
+    "dashboard",
+    "ai-agents",
+    "terminal",
+    "admin-template",
+    "vanilla-js",
+    "dark-mode"
+  ],
+  "scripts": {
+    "serve": "python3 -m http.server 8080",
+    "serve:node": "npx --yes serve ."
+  }
+}
